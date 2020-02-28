@@ -9,8 +9,8 @@ Prerequisites: [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/
 ## Clone the repo
 
 ```bash
-git clone https://github.com/oktadeveloper/okta-java-jwt-example.git 
-cd okta-java-jwt-example
+git clone https://github.com/vivekvara/java-jwt-example.git
+cd java-jwt-example
 ```
 
 ## Run the tests
@@ -18,6 +18,3 @@ cd okta-java-jwt-example
 ```bash
 ./gradlew test -i
 ```
-
-For more info take a look at the [JWTDemo](https://github.com/oktadeveloper/okta-java-jwt-example/blob/master/src/main/java/com/okta/createverifytokens/JWTDemo.java) class.
-# java-jwt-example
